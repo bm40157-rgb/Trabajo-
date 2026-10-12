@@ -24,6 +24,9 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 
 Total declarado en CV: más de 7 años de experiencia.
 
+### Logros medibles
+- Estudio jurídico: no recuerda cifras (declarado 12/10/2026)
+
 ## Formación
 - UBA XXI — estudios en curso (carrera: PENDIENTE)
 - Microsoft Copilot — Curso completo, Santander Open Academy, 18/09/2026 (8 h)
