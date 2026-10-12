@@ -11,6 +11,7 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 - Franja horaria disponible: 10 a 18 (hora Argentina) (declarado 12/10/2026)
 - Cuentas activas (declarado 12/10/2026): LinkedIn (si está actualizado con el CV nuevo: no confirmado explícitamente), Workana, Computrabajo, Bumeran/Zonajobs, Outlier. Sin cuenta: Upwork, Indeed
 - Medios de cobro disponibles (declarado 12/10/2026): cuenta bancaria en pesos, PayPal, billetera virtual. Sin: Payoneer, Wise, cripto
+- Situación fiscal: no inscripta en ARCA para facturar (declarado 12/10/2026)
 - Equipo: notebook con Windows; internet por fibra (velocidad no informada); auriculares con micrófono: sí (declarado 12/10/2026)
 
 ## Experiencia
@@ -44,7 +45,6 @@ Total declarado en CV: más de 7 años de experiencia.
 - ICARS (LinkedIn), Soy tu farmacia (cajeros), CazVid (secretaria), NBCUniversal vía SmartRecruiters (asesora de medios digitales), X Digital (LinkedIn), registro en Outlier (evaluación/redacción en español). Resultado de cada una: PENDIENTE.
 
 ## PENDIENTES a relevar (Selección)
-- Situación fiscal para facturar (monotributo: sí/no)
 - Logros medibles en cada trabajo
 - Motivo de salida de cada trabajo y período 2020–2025
 - Referencias laborales disponibles
