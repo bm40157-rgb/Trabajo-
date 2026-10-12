@@ -28,6 +28,7 @@ Total declarado en CV: más de 7 años de experiencia.
 - Estudio jurídico: no recuerda cifras; no se venció ningún plazo procesal mientras controlaba la agenda; armó o mejoró: planilla de Excel de expedientes o vencimientos, calendario o agenda digital con recordatorios, y sistema de archivo (carpetas físicas o digitales) (declarado 12/10/2026)
 - Consultorio odontológico: cantidad de turnos por día no la sabe ("muchos"); para mejorar el flujo de turnos: llamó para confirmar, reorganizó la agenda y pasó a un sistema digital (declarado 12/10/2026)
 - Farmacity: como encargada tuvo hasta 15 personas a cargo; diferencias de arqueo en cierres de caja: casi nunca; más de 200 clientes por día (CV) (declarado 12/10/2026)
+- MiroSol: sin logros para destacar (declarado 12/10/2026)
 
 ## Formación
 - UBA XXI — estudios en curso (carrera: PENDIENTE)
@@ -50,6 +51,5 @@ Total declarado en CV: más de 7 años de experiencia.
 - ICARS (LinkedIn), Soy tu farmacia (cajeros), CazVid (secretaria), NBCUniversal vía SmartRecruiters (asesora de medios digitales), X Digital (LinkedIn), registro en Outlier (evaluación/redacción en español). Resultado de cada una: PENDIENTE.
 
 ## PENDIENTES a relevar (Selección)
-- Logros medibles en cada trabajo
 - Motivo de salida de cada trabajo y período 2020–2025
 - Referencias laborales disponibles
