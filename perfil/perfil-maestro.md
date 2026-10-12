@@ -9,6 +9,7 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 - LinkedIn: belén-lescano-595b01289
 - Remuneración pretendida: ARS 900.000 por mes (declarado 12/10/2026; no especificó si es mínimo u objetivo)
 - Franja horaria disponible: 10 a 18 (hora Argentina) (declarado 12/10/2026)
+- Cuentas activas (declarado 12/10/2026): LinkedIn (si está actualizado con el CV nuevo: no confirmado explícitamente), Workana, Computrabajo, Bumeran/Zonajobs, Outlier. Sin cuenta: Upwork, Indeed
 - Equipo: notebook con Windows; internet por fibra (velocidad no informada); auriculares con micrófono: sí (declarado 12/10/2026)
 
 ## Experiencia
@@ -42,7 +43,6 @@ Total declarado en CV: más de 7 años de experiencia.
 
 ## PENDIENTES a relevar (Selección)
 - Velocidad de tipeo
-- Cuentas activas: Workana, Upwork, LinkedIn, Indeed, otras
 - Medio de cobro para freelance (sin pedir números de cuenta)
 - Situación fiscal para facturar (monotributo: sí/no)
 - Logros medibles en cada trabajo
