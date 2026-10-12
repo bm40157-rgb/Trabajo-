@@ -32,6 +32,7 @@ Total declarado en CV: más de 7 años de experiencia.
 - Microsoft Office y Google Workspace (nivel por herramienta: PENDIENTE)
 - Microsoft Copilot e IA (usa IA para verificar fuentes y controlar agenda)
 - Sistemas de caja / POS / Posnet
+- Velocidad de tipeo: 45 palabras por minuto (declarado 12/10/2026; precisión no informada)
 - Excel / Google Sheets (declarado 12/10/2026): carga y formato de datos: sí; ordenar y filtrar: sí; SUMA y PROMEDIO: sí; BUSCARV/BUSCARX: no; tablas dinámicas: sí; gráficos: no; fórmulas condicionales (SI, CONTAR.SI, SUMAR.SI): sí. Herramienta más usada: Excel
 
 ## Idiomas
@@ -42,7 +43,6 @@ Total declarado en CV: más de 7 años de experiencia.
 - ICARS (LinkedIn), Soy tu farmacia (cajeros), CazVid (secretaria), NBCUniversal vía SmartRecruiters (asesora de medios digitales), X Digital (LinkedIn), registro en Outlier (evaluación/redacción en español). Resultado de cada una: PENDIENTE.
 
 ## PENDIENTES a relevar (Selección)
-- Velocidad de tipeo
 - Medio de cobro para freelance (sin pedir números de cuenta)
 - Situación fiscal para facturar (monotributo: sí/no)
 - Logros medibles en cada trabajo
