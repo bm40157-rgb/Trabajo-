@@ -23,6 +23,7 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 | Abr 2013 – Mar 2014 | Atención al Público | MiroSol | Caja, recepción de mercadería, control de stock, soporte en ventas |
 
 Total declarado en CV: más de 7 años de experiencia.
+Período dic 2019 – ago 2025: cuidado de familia o hijos (declarado 12/10/2026)
 
 ### Logros medibles
 - Estudio jurídico: no recuerda cifras; no se venció ningún plazo procesal mientras controlaba la agenda; armó o mejoró: planilla de Excel de expedientes o vencimientos, calendario o agenda digital con recordatorios, y sistema de archivo (carpetas físicas o digitales) (declarado 12/10/2026)
@@ -51,5 +52,5 @@ Total declarado en CV: más de 7 años de experiencia.
 - ICARS (LinkedIn), Soy tu farmacia (cajeros), CazVid (secretaria), NBCUniversal vía SmartRecruiters (asesora de medios digitales), X Digital (LinkedIn), registro en Outlier (evaluación/redacción en español). Resultado de cada una: PENDIENTE.
 
 ## PENDIENTES a relevar (Selección)
-- Motivo de salida de cada trabajo y período 2020–2025
+- Motivo de salida de cada trabajo
 - Referencias laborales disponibles
