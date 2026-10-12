@@ -25,6 +25,13 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 Total declarado en CV: más de 7 años de experiencia.
 Período dic 2019 – ago 2025: cuidado de familia o hijos (declarado 12/10/2026)
 
+### Motivo de salida (declarado 12/10/2026)
+- Estudio jurídico (may 2026): renuncia por mejor oferta
+- Consultorio odontológico (dic 2019): renuncia por mejor oferta
+- Farmacity (nov 2017): mudanza
+- MiroSol (mar 2014): mudanza
+- ⚠ A aclarar: tras las renuncias "por mejor oferta" de dic 2019 y may 2026 no figura un trabajo posterior
+
 ### Logros medibles
 - Estudio jurídico: no recuerda cifras; no se venció ningún plazo procesal mientras controlaba la agenda; armó o mejoró: planilla de Excel de expedientes o vencimientos, calendario o agenda digital con recordatorios, y sistema de archivo (carpetas físicas o digitales) (declarado 12/10/2026)
 - Consultorio odontológico: cantidad de turnos por día no la sabe ("muchos"); para mejorar el flujo de turnos: llamó para confirmar, reorganizó la agenda y pasó a un sistema digital (declarado 12/10/2026)
@@ -52,5 +59,4 @@ Período dic 2019 – ago 2025: cuidado de familia o hijos (declarado 12/10/2026
 - ICARS (LinkedIn), Soy tu farmacia (cajeros), CazVid (secretaria), NBCUniversal vía SmartRecruiters (asesora de medios digitales), X Digital (LinkedIn), registro en Outlier (evaluación/redacción en español). Resultado de cada una: PENDIENTE.
 
 ## PENDIENTES a relevar (Selección)
-- Motivo de salida de cada trabajo
 - Referencias laborales disponibles
