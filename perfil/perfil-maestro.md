@@ -25,7 +25,7 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 Total declarado en CV: más de 7 años de experiencia.
 
 ### Logros medibles
-- Estudio jurídico: no recuerda cifras (declarado 12/10/2026)
+- Estudio jurídico: no recuerda cifras; no se venció ningún plazo procesal mientras controlaba la agenda; armó o mejoró un sistema (cuál: PENDIENTE) (declarado 12/10/2026)
 
 ## Formación
 - UBA XXI — estudios en curso (carrera: PENDIENTE)
