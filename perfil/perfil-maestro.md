@@ -10,6 +10,7 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 - Remuneración pretendida: ARS 900.000 por mes (declarado 12/10/2026; no especificó si es mínimo u objetivo)
 - Franja horaria disponible: 10 a 18 (hora Argentina) (declarado 12/10/2026)
 - Cuentas activas (declarado 12/10/2026): LinkedIn (si está actualizado con el CV nuevo: no confirmado explícitamente), Workana, Computrabajo, Bumeran/Zonajobs, Outlier. Sin cuenta: Upwork, Indeed
+- Medios de cobro disponibles (declarado 12/10/2026): cuenta bancaria en pesos, PayPal, billetera virtual. Sin: Payoneer, Wise, cripto
 - Equipo: notebook con Windows; internet por fibra (velocidad no informada); auriculares con micrófono: sí (declarado 12/10/2026)
 
 ## Experiencia
@@ -43,7 +44,6 @@ Total declarado en CV: más de 7 años de experiencia.
 - ICARS (LinkedIn), Soy tu farmacia (cajeros), CazVid (secretaria), NBCUniversal vía SmartRecruiters (asesora de medios digitales), X Digital (LinkedIn), registro en Outlier (evaluación/redacción en español). Resultado de cada una: PENDIENTE.
 
 ## PENDIENTES a relevar (Selección)
-- Medio de cobro para freelance (sin pedir números de cuenta)
 - Situación fiscal para facturar (monotributo: sí/no)
 - Logros medibles en cada trabajo
 - Motivo de salida de cada trabajo y período 2020–2025
