@@ -7,6 +7,7 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 - Disponibilidad: full time
 - Modalidad buscada: remoto; empleo o freelance
 - LinkedIn: belén-lescano-595b01289
+- Remuneración pretendida: ARS 900.000 por mes (declarado 12/10/2026; no especificó si es mínimo u objetivo)
 
 ## Experiencia
 | Período | Puesto | Lugar | Tareas |
@@ -37,7 +38,6 @@ Total declarado en CV: más de 7 años de experiencia.
 - ICARS (LinkedIn), Soy tu farmacia (cajeros), CazVid (secretaria), NBCUniversal vía SmartRecruiters (asesora de medios digitales), X Digital (LinkedIn), registro en Outlier (evaluación/redacción en español). Resultado de cada una: PENDIENTE.
 
 ## PENDIENTES a relevar (Selección)
-- Remuneración pretendida (mínimo aceptable y objetivo)
 - Horas disponibles por semana y franja horaria (¿puede trabajar en horario EE. UU.?)
 - Equipo: computadora, conexión, auriculares
 - Nivel de Excel / Google Sheets (fórmulas, tablas, filtros)
