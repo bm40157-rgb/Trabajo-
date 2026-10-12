@@ -30,8 +30,8 @@ Período dic 2019 – ago 2025: cuidado de familia o hijos (declarado 12/10/2026
 - Consultorio odontológico (dic 2019): renuncia por mejor oferta
 - Farmacity (nov 2017): mudanza
 - MiroSol (mar 2014): mudanza
-- Aclaración de la titular sobre esas renuncias: "2019 panadería, 2026 cubrí una licencia" (declarado 12/10/2026)
-- ⚠ A aclarar: fechas del trabajo en la panadería (no figura en el CV; antes lo había ubicado en ago 2025 – may 2026) y a qué se refiere "cubrí una licencia"
+- Aclaración de la titular sobre esas renuncias: "2026 cubrí una licencia". La mención de una panadería en 2019 fue un error; lo correcto es el estudio jurídico (declarado 12/10/2026)
+- ⚠ A aclarar: motivo real de salida del consultorio en dic 2019 (no hubo trabajo nuevo después) y a qué se refiere "cubrí una licencia"
 
 ### Logros medibles
 - Estudio jurídico: no recuerda cifras; no se venció ningún plazo procesal mientras controlaba la agenda; armó o mejoró: planilla de Excel de expedientes o vencimientos, calendario o agenda digital con recordatorios, y sistema de archivo (carpetas físicas o digitales) (declarado 12/10/2026)
