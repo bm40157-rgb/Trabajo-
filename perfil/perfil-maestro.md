@@ -24,6 +24,7 @@ Fuente única sobre la titular. Solo contiene datos que ella declaró. Lo que fa
 
 Total declarado en CV: más de 7 años de experiencia.
 Período dic 2019 – ago 2025: cuidado de familia o hijos (declarado 12/10/2026)
+Referencias laborales disponibles: estudio jurídico, consultorio odontológico, Farmacity y MiroSol (declarado 12/10/2026; datos de contacto no registrados)
 
 ### Motivo de salida (declarado 12/10/2026)
 - Estudio jurídico (may 2026): renuncia por mejor oferta
@@ -61,4 +62,4 @@ Período dic 2019 – ago 2025: cuidado de familia o hijos (declarado 12/10/2026
 - ICARS (LinkedIn), Soy tu farmacia (cajeros), CazVid (secretaria), NBCUniversal vía SmartRecruiters (asesora de medios digitales), X Digital (LinkedIn), registro en Outlier (evaluación/redacción en español). Resultado de cada una: PENDIENTE.
 
 ## PENDIENTES a relevar (Selección)
-- Referencias laborales disponibles
+- Motivo real de salida del consultorio (dic 2019)
