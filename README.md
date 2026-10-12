@@ -1,2 +1,5 @@
-# Trabajo-
-El proyecto tiene como objetivo la mejora laboral, no solo conseguir trabajo- son varios niveles- el más inmediato es conseguir un das contexto para seguir Ahora arma los departamentos y uno que sea selección donde me pregunte lo que necesite como si fuese una entrevista y donde vaya a poder entrenar
+# trabajo
+
+Proyecto de mejora laboral de María Belén Lescano. La Dirección está en `CLAUDE.md`.
+
+Comandos: `/seleccion relevar`, `/seleccion entrenar <puesto>`, `/formacion <tema>`, `/cierre`. Para retomar: escribir `retomar`.
